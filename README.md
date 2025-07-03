@@ -9,7 +9,7 @@ Dit kun je op verschillende manieren doen:
 
 Hoe ga je te werk?
 1. Clone deze repository.
-2. Zorg dat je python 3 en pytest geïnstalleerd hebt.
+2. Zorg dat je `python 3` en `pytest` geïnstalleerd hebt.
 4. Bekijk de tests in `test_gilded_rose.py` en voer ze uit met `pytest`. Mocht dit niet lukken, stuur ons een berichtje, dan helpen we je graag.
 5. Pas de code aan in `gilded_rose.py` en `test_gilded_rose.py`, kies uit bovenstaande opties of bedenk zelf iets.
 6. Houd in een apart textbestand globaal bij welke (denk)stappen je hebt genomen, wat je opvalt, en wat je overwegingen zijn geweest. Je kunt ook de best practices benoemen die je hebt toegepast.
